@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Mostafa Gaber
-## Mechanical engineer interested in embedded systems , machine learning and matlab 
+ Mechanical engineer that interested in embedded systems , machine learning and matlab sharing my projects here
 
 <!--
 **MostafaGaber001/MostafaGaber001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
