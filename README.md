@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋 I'm Mostafa Gaber
+## Mechanical engineer interested in embedded systems , machine learning and matlab 
 
 <!--
 **MostafaGaber001/MostafaGaber001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
